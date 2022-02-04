@@ -1,4 +1,4 @@
-## ml-heart-disease-predict
+## Heart Disease Prediction Model
 Building a ML model to predict heart disease
 
 #### Introduction
