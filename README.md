@@ -1,15 +1,7 @@
-# ml-heart-disease-predict
+## ml-heart-disease-predict
 Building a ML model to predict heart disease
 
-1. Introduction 
-2. Problem Statement
-3. Import relevant libraries 
-4. Data Acquisation and Description
-5. Data Pre-Profiling
-6. Exploratory Data Analysis(EDA)
-7. Insights and Conclusion on EDA
-
-### 1. Introduction
+#### Introduction
 <b>What is Heart Disease ?</b>
 * The term “heart disease” refers to several types of heart conditions. The most common type of heart disease in the United States is coronary artery disease (CAD), which affects the blood flow to the heart. Decreased blood flow can cause a heart attack.
 
@@ -30,4 +22,3 @@ Building a ML model to predict heart disease
 3. Unhealthy diet
 4. Physical inactivity
 5. Excessive alcohol use
-![image.png](attachment:image.png)
